@@ -14,7 +14,7 @@ format:
 ## Objectifs
 
 Mieux connaitre les pratiques agricoles de 1852, période où la France est très rurale et agricole. L'exode rural commence à peine et l'urbanisation est limitée.
-En spatialisant les données du recensement de 1852, vous déterminerez si les productions étaient régionalisées. Vous pourrez faire le pont avec les donnés de 2020 pour tenter une comparaison.
+En spatialisant les données du recensement de 1852, vous déterminerez si les productions étaient régionalisées. 
 
 En travaillant sur ce sujet vous apprendrez à :
 
